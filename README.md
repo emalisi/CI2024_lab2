@@ -19,6 +19,7 @@ Hybrid Implementation
 Distance of best tour: 4172.762613916409
 
 RUSSIA
+
 Simulated Annealing
 Distance of best tour: 150696.8353151428
 
@@ -26,6 +27,7 @@ Hybrid Implementation
 Distance of best tour: 32772.614876239066
 
 US
+
 Simulated Annealing
 Distance of best tour: 335942.6514039016
 
