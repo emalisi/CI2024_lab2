@@ -5,31 +5,39 @@ To solve the TSP problem, I used two algorithms. The first one is simulated anne
 VANUATU
 
 Simulated Annealing
+
 Distance of best tour: 1345.5449564733112
 
 Hybrid Implementation
+
 Distance of best tour: 1345.5449564733112
 
 ITALY
 
 Simulated Annealing
+
 Distance of best tour: 7642.632926389612
 
 Hybrid Implementation
+
 Distance of best tour: 4172.762613916409
 
 RUSSIA
 
 Simulated Annealing
+
 Distance of best tour: 150696.8353151428
 
 Hybrid Implementation
+
 Distance of best tour: 32772.614876239066
 
 US
 
 Simulated Annealing
+
 Distance of best tour: 335942.6514039016
 
 Hybrid Implementation
+
 Distance of best tour: 38365.85862833056
